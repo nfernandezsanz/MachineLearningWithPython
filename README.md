@@ -1,2 +1,2 @@
 # MachineLearningWithPython
-Curso Machine Learning With Python WorkBook
+Course Machine Learning With Python WorkBook
